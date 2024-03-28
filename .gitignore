@@ -1,0 +1,7 @@
+# asd
+# exclude node_modules
+# exclude  dist folder
+
+node_modules
+dist
+
